@@ -77,7 +77,7 @@ echo '<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bo
     <main>
         <div class="container py-4">
             <header class="pb-3 mb-4 border-bottom">
-                <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+                <a href="https://blaster.org.uk/" class="d-flex align-items-center text-dark text-decoration-none">
                     <img class="mb-2" src="logooo.png" alt="" width="100" height="100">
                     <span class="fs-4 text-success"><h1>BLASTER ORGANIZATION</h1></span>
                 </a>
