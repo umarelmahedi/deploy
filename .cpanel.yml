@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/blastero/umar.blaster.org.uk/
+    - export DEPLOYPATH=/home/cpaneluser/dir
     - /bin/cp -R * $DEPLOYPATH
