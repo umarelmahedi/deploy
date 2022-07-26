@@ -1,1 +1,1 @@
-# Deploy from github to the live server
+> Deploy from github to Cpanel
